@@ -1,0 +1,5 @@
+{
+  "name": "Online Bazaar PK",
+  "description": "A modern, responsive e-commerce application built with React and Tailwind CSS, simulating a Pakistani online marketplace. It features product browsing, a shopping cart, and a clean, user-friendly interface.",
+  "requestFramePermissions": []
+}
